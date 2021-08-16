@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Szonya48
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data mining
-- 💞️ I’m looking to collaborate on first steps
+- 💞️ I’m looking to collaborate on the first steps
 - 📫 How to reach me sofiamozaleva@stfrancis.edu
 
 <!---
